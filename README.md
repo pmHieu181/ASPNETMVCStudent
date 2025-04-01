@@ -1,0 +1,2 @@
+# ASPNETMVCStudent
+Lab6SE
