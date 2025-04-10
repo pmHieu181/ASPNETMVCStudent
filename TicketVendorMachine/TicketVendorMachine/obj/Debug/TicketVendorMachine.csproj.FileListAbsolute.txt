@@ -1,0 +1,11 @@
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe.config
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.pdb
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.AssemblyReference.cache
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Properties.Resources.resources
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.SelectDestinationForm.resources
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.SelectPaymentForm.resources
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.GenerateResource.cache
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.CoreCompileInputs.cache
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.exe
+C:\Users\phamm\source\repos\ASPNETMVCStudent\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.pdb
