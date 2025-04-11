@@ -1,0 +1,11 @@
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\bin\Debug\ticketsystem.exe.config
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\bin\Debug\ticketsystem.exe
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\bin\Debug\ticketsystem.pdb
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\obj\Debug\ticketsystem.csproj.AssemblyReference.cache
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\obj\Debug\ticketsystem.Properties.Resources.resources
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\obj\Debug\ticketsystem.SelectDestination.resources
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\obj\Debug\ticketsystem.csproj.GenerateResource.cache
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\obj\Debug\ticketsystem.csproj.CoreCompileInputs.cache
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\obj\Debug\ticketsystem.exe
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\obj\Debug\ticketsystem.pdb
+C:\Users\phamm\source\repos\ASPNETMVCStudent\ticketsystem\ticketsystem\obj\Debug\ticketsystem.SelectPayment.resources
